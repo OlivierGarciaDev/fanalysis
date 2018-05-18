@@ -1,0 +1,9 @@
+Prof	Radio	Tel.	Quot.Nat.	Quot.Reg.	Press.Mag.	Press.TV
+Agriculteur	96	118	2	71	50	17
+Petit.Patr.	122	136	11	76	49	41
+Prof.Cad.Sup	193	184	74	63	103	79
+Prof.Int.	360	365	63	145	141	184
+Employe	511	593	57	217	172	306
+Ouvr.Qualif.	385	457	42	174	104	220
+Ouvr.Non-Qual.	156	185	8	69	42	85
+Inactif	1474	1931	181	852	642	782

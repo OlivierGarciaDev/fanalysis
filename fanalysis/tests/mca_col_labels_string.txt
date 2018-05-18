@@ -1,0 +1,1 @@
+col0_Taille+ col0_Taille++ col0_Taille- col1_Poids+ col1_Poids++ col1_Poids- col2_Veloc+ col2_Veloc++ col2_Veloc- col3_Intell+ col3_Intell++ col3_Intell- col4_Affec+ col4_Affec- col5_Agress+ col5_Agress-
