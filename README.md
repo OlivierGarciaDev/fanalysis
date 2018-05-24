@@ -33,8 +33,6 @@ You can download fanalysis from the GitHub repo:
 
     git clone https://github.com/OlivierGarciaDev/fanalysis.git
 
-Then copy and paste the "fanalysis/fanalysis" directory into the "site-packages" directory of your Python environment.
-
 ## Running the tests
 
 After installation, you can launch the test suite from outside the source directory:
