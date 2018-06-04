@@ -17,21 +17,17 @@ Those statistical methods can be used in two ways:
 
 fanalysis requires:
 
-    Python (3.6.0)
-    NumPy (1.11.3)
-    Matplotlib (2.0.0)
-    Scikit-learn (0.18.1)
-    Pandas (0.19.2)
+    Python 3
+    NumPy >= 1.11.0
+    Matplotlib >= 2.0.0
+    Scikit-learn >= 0.18.0
+    Pandas >= 0.19.0
 
 ### User installation
 
-You can download fanalysis from the GitHub repo:
+You can install fanalysis using pip:
 
-    https://github.com/OlivierGarciaDev/fanalysis/archive/master.zip
-
-... or clone it:
-
-    git clone https://github.com/OlivierGarciaDev/fanalysis.git
+    pip install fanalysis
 
 ## Running the tests
 
